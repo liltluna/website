@@ -20,7 +20,6 @@ socials:
 interests:
     - Deep Learning
     - Computer Vision
-    - Data Structure
 
 affiliations:
     - affiliation:
@@ -51,7 +50,7 @@ affiliations:
 #         other_info: 'graduated with first class honor, supex`rvised by Prof.  Cool!'
 ---
 
-I am an undergraduate student at [Beijing University of Posts and Telecommunications][1], currently involved in my Graduation project focusing on "The Design and Implementation of a Stock Investment Assistant System Based on Transformer" technology. 
-
+I am an undergraduate student at [Beijing University of Posts and Telecommunications][1], currently involved in my Graduation project focusing on "The Design and Implementation of a Stock Investment Assistant System Based on Transformer" technology. I'm also interested in computer vision, and have already done several interesting small projects with [ultralytics/yolov8][2] such as combining OCR with images to determine whether the label numbers are in the right order. 
 
 [1]: https://www.bupt.edu.cn/
+[2]: https://github.com/ultralytics/ultralytics
